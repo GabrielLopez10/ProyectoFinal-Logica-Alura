@@ -1,7 +1,7 @@
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
-let numeroMaximo = 100;
+let numeroMaximo = 10;
 let numeroDePartidas = prompt("Indica el numero de partidas:");
 
 function asignarTextoElemento(elemento, texto) {
